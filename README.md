@@ -1,2 +1,3 @@
 # test_repo_1
-test repo while setting up rpi git
+Test repo while setting up rpi git
+this is a test of vi.  i hate vi
